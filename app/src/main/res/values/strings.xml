@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2A</string>
+    <string name="bill_total">Total Bill:</string>
+    <string name="tip_percentage">Tip Percentage:</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="calculate">Calculate</string>
+</resources>
